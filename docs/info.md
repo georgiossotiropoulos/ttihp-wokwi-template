@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+You input the number 6 in binary form and the 7 segment dispaly shows the number 6.
 ## How to test
 
-Explain how to use your project
+Apply the binary input 6 and watch the number 6 on the display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+You will need power and a switch for the inputs and a 7 segment display connected to the output.
